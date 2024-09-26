@@ -1,0 +1,22 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "title": "Coffee",
+      "cost": 25,
+      "timestamp": 1727297307550
+    },
+    {
+      "id": "2",
+      "title": "Latte",
+      "cost": 20,
+      "timestamp": 1727297307550
+    },
+    {
+      "id": "6d1e",
+      "title": "Sandwitch",
+      "cost": 40,
+      "timestamp": 1727297307550
+    }
+  ]
+}

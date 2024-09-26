@@ -1,0 +1,15 @@
+{
+  "short_name": "MDN",
+  "name": "MDN Web Docs",
+  "icons": [
+    {
+      "src": "/fe/favicon-178x178.png",
+      "sizes": "178x178",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
